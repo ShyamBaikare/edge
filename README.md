@@ -1,3 +1,3 @@
-# edge
-this is my first repository
-Auther - shyam baikare
+# Edge
+This is my first repository.
+Auther - Shyam Baikare
